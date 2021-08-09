@@ -1,0 +1,108 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/advertisements",
+      "handler": "advertisement.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/advertisements/autocompleteTitle",
+      "handler": "advertisement.autocompleteTitle",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/advertisements/count",
+      "handler": "advertisement.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/advertisements/:id",
+      "handler": "advertisement.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/advertisements/searchVehicle/:vehicleRegistration",
+      "handler": "advertisement.searchVehicleRegistration",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/advertisements",
+      "handler": "advertisement.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/advertisements/upsertBulk",
+      "handler": "advertisement.upsertBulk",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/advertisements/save",
+      "handler": "advertisement.upinsert",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/advertisements/:id",
+      "handler": "advertisement.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/advertisements/updateCategory/:id",
+      "handler": "advertisement.updateCategory",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/advertisements/:id",
+      "handler": "advertisement.delete",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/advertisements/deleteAll",
+      "handler": "advertisement.deleteAll",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/advertisements/createAvertisementIndex",
+      "handler": "advertisement.createAvertisementIndex",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

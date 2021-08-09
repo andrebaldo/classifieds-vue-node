@@ -1,0 +1,15 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "uri": "mongodb://heroku_g1c54mwk:cgs872c7j891h8f8ls14vb5mu6@ds163835.mlab.com:63835/heroku_g1c54mwk",
+        "database": ""
+      },
+      "options": {
+        "ssl": false
+      }
+    }
+  }
+}

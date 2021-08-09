@@ -1,0 +1,1162 @@
+[
+  {
+    "ABARTH": {
+      "modelsList": [
+        "124 Spider",
+        "500",
+        "500C",
+        "595",
+        "595C",
+        "695",
+        "695C",
+        "Grande Punto",
+        "Punto Evo"
+      ]
+    }
+  },
+  {
+    "AC": {
+      "modelsList": [
+        "212",
+        "302",
+        "Ace",
+        "Aceca",
+        "Cobra",
+        "Mamba",
+        "Superblower"
+      ]
+    }
+  },
+  {
+    "AK": {
+      "modelsList": ["Cobra"]
+    }
+  },
+  {
+    "ALFA ROMEO": {
+      "modelsList": [
+        "145",
+        "146",
+        "147",
+        "155",
+        "156",
+        "156 Sportwagon",
+        "159",
+        "159 Sportwagon",
+        "164",
+        "166",
+        "1750",
+        "2000",
+        "2600",
+        "33",
+        "4C",
+        "6",
+        "75",
+        "8C",
+        "90",
+        "Alfasud",
+        "Alfetta",
+        "Arna",
+        "Brera",
+        "Dauphine",
+        "GT",
+        "GTV",
+        "GTV 6",
+        "Giulia",
+        "Giulietta",
+        "Gold Cloverleaf",
+        "Junior",
+        "MiTo",
+        "Montreal",
+        "RZ",
+        "SZ",
+        "Spider",
+        "Sprint",
+        "Stelvio"
+      ]
+    }
+  },
+  {
+    "ALPINE": {
+      "modelsList": ["A110"]
+    }
+  },
+  {
+    "ARIEL": {
+      "modelsList": ["Atom", "Nomad"]
+    }
+  },
+  {
+    "ASTON MARTIN": {
+      "modelsList": [
+        "Cygnet",
+        "DB1",
+        "DB11",
+        "DB2",
+        "DB3",
+        "DB4",
+        "DB5",
+        "DB6",
+        "DB7",
+        "DB9",
+        "DBS",
+        "DBX",
+        "International",
+        "Lagonda",
+        "Le Mans",
+        "Mark II",
+        "One-77",
+        "Q-One-77",
+        "Rapide",
+        "Rapide S",
+        "Ulster",
+        "V12 Zagato",
+        "V8",
+        "Vanquish",
+        "Vantage",
+        "Virage",
+        "Volante",
+        "Vulcan"
+      ]
+    }
+  },
+  {
+    "AUDI": {
+      "modelsList": [
+        "100",
+        "100 Avant",
+        "200",
+        "60",
+        "70",
+        "75",
+        "80",
+        "90",
+        "920",
+        "A1",
+        "A2",
+        "A3",
+        "A3 Cabriolet",
+        "A4",
+        "A4 Allroad",
+        "A4 Avant",
+        "A4 Cabriolet",
+        "A5",
+        "A5 Cabriolet",
+        "A6 Allroad",
+        "A6 Avant",
+        "A6 Saloon",
+        "A6 Unspecified",
+        "A7",
+        "A8",
+        "Allroad",
+        "Cabriolet",
+        "Coupe",
+        "E-Tron",
+        "Q2",
+        "Q3",
+        "Q5",
+        "Q7",
+        "Q8",
+        "R8",
+        "RS Q3",
+        "RS2",
+        "RS3",
+        "RS4",
+        "RS4 Avant",
+        "RS4 Cabriolet",
+        "RS5",
+        "RS6",
+        "RS6 Avant",
+        "RS7",
+        "RSQ8",
+        "S1",
+        "S3",
+        "S4",
+        "S4 Avant",
+        "S4 Cabriolet",
+        "S5",
+        "S6 Avant",
+        "S6 Saloon",
+        "S7",
+        "S8",
+        "SQ2",
+        "SQ5",
+        "SQ7",
+        "SQ8",
+        "TT",
+        "TT RS",
+        "TTS",
+        "V8",
+        "quattro"
+      ]
+    }
+  },
+  {
+    "AUSTIN": {
+      "modelsList": [
+        "1100",
+        "1300",
+        "1800",
+        "2200",
+        "A105",
+        "A110",
+        "A125",
+        "A135",
+        "A30",
+        "A35",
+        "A40",
+        "A50",
+        "A55",
+        "A60",
+        "A70",
+        "A90",
+        "A95",
+        "A99",
+        "Allegro",
+        "Ambassador",
+        "Beaconsfield",
+        "Champ",
+        "Cooper",
+        "FL1",
+        "Gipsy",
+        "Healey",
+        "Maestro",
+        "Maxi",
+        "Metro",
+        "Mini",
+        "Montego",
+        "Nash",
+        "Princess",
+        "Ruby",
+        "Seven",
+        "Ten",
+        "Twelve"
+      ]
+    }
+  },
+  {
+    "BAC": {
+      "modelsList": ["Mono"]
+    }
+  },
+  {
+    "BEAUFORD": {
+      "modelsList": ["Open Tourer", "Series 3"]
+    }
+  },
+  {
+    "BENTLEY": {
+      "modelsList": [
+        "3 Litre",
+        "3.5 Litre",
+        "4.25 Litre",
+        "Arnage",
+        "Azure",
+        "Bentayga",
+        "Brooklands",
+        "Continental",
+        "Corniche",
+        "Eight",
+        "Flying Spur",
+        "Mkvi",
+        "Mulsanne",
+        "R-Type",
+        "Series I",
+        "Series II",
+        "Series III",
+        "T Series",
+        "Turbo R",
+        "Turbo RT"
+      ]
+    }
+  },
+  {
+    "BMW": {
+      "modelsList": [
+        "1 Series",
+        "1502",
+        "1602",
+        "1802",
+        "2 Series",
+        "2 Series Active Tourer",
+        "2 Series Gran Coupe",
+        "2 Series Gran Tourer",
+        "2000",
+        "2002",
+        "3 Series",
+        "3 Series Gran Turismo",
+        "4 Series",
+        "4 Series Gran Coupe",
+        "5 Series",
+        "5 Series Gran Turismo",
+        "6 Series",
+        "6 Series Gran Coupe",
+        "6 Series Gran Turismo",
+        "7 Series",
+        "8 Series",
+        "8 Series Gran Coupe",
+        "Alpina A1",
+        "Alpina A2",
+        "Alpina A4",
+        "Alpina B10",
+        "Alpina B11",
+        "Alpina B12",
+        "Alpina B3",
+        "Alpina B3 Bi-Turbo",
+        "Alpina B4",
+        "Alpina B5",
+        "Alpina B6",
+        "Alpina B7",
+        "Alpina B8",
+        "Alpina B9",
+        "Alpina BV10V8",
+        "Alpina C1",
+        "Alpina C2",
+        "Alpina D3",
+        "Alpina D3 Bi-Turbo",
+        "Alpina D4",
+        "Alpina D4 Bi-Turbo",
+        "Alpina D5 Bi-Turbo",
+        "Alpina Roadster",
+        "Alpina Unspecified Models",
+        "Alpina XD3 Bi-Turbo",
+        "CSA",
+        "E3",
+        "E9",
+        "Isetta",
+        "M1",
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M6 Gran Coupe",
+        "M8",
+        "M8 Gran Coupe",
+        "X1",
+        "X2",
+        "X3",
+        "X3 M",
+        "X4",
+        "X4 M",
+        "X5",
+        "X5M",
+        "X6",
+        "X6M",
+        "X7",
+        "Z1",
+        "Z3",
+        "Z3M",
+        "Z4",
+        "Z4M",
+        "Z8",
+        "i3",
+        "i8"
+      ]
+    }
+  },
+  {
+    "BOWLER": {
+      "modelsList": [
+        "Bulldog",
+        "Challenge",
+        "Defender 110",
+        "Defender 90",
+        "EXR",
+        "EXR S",
+        "Nemesis",
+        "Tomcat",
+        "Wildcat"
+      ]
+    }
+  },
+  {
+    "BRISTOL": {
+      "modelsList": [
+        "400",
+        "401",
+        "402",
+        "403",
+        "404",
+        "405",
+        "406",
+        "407",
+        "408",
+        "409",
+        "410",
+        "411",
+        "412",
+        "603",
+        "Beaufighter",
+        "Blenheim",
+        "Blenheim 2",
+        "Blenheim 3",
+        "Blenheim 3G",
+        "Brigand",
+        "Britannia",
+        "Fighter"
+      ]
+    }
+  },
+  {
+    "BUGATTI": {
+      "modelsList": ["101", "73", "Chiron", "EB 110", "Type", "Veyron"]
+    }
+  },
+  {
+    "BUICK": {
+      "modelsList": [
+        "Century",
+        "Electra",
+        "Le Sabre",
+        "Park Avenue",
+        "Reatta",
+        "Regal",
+        "Riviera",
+        "Skylark",
+        "Special",
+        "Wildcat"
+      ]
+    }
+  },
+  {
+    "CADILLAC": {
+      "modelsList": [
+        "ATS",
+        "Allante",
+        "BLS",
+        "Biarritz",
+        "Brougham",
+        "CTS",
+        "Cimarron",
+        "De Ville",
+        "Eldorado",
+        "Escalade",
+        "Fleetwood",
+        "SRX",
+        "STS",
+        "Seville",
+        "V12",
+        "V16",
+        "XLR"
+      ]
+    }
+  },
+  {
+    "CATERHAM": {
+      "modelsList": ["21", "CSR", "Seven"]
+    }
+  },
+  {
+    "CHESIL": {
+      "modelsList": ["Speedster"]
+    }
+  },
+  {
+    "CHEVROLET": {
+      "modelsList": [
+        "210",
+        "Astro",
+        "Avalanche",
+        "Aveo",
+        "Belair",
+        "Beretta",
+        "Biscayne",
+        "Blazer",
+        "C/K",
+        "C10",
+        "C20",
+        "Camaro",
+        "Caprice",
+        "Captiva",
+        "Cavalier",
+        "Chevelle",
+        "Chevy",
+        "Cobalt",
+        "Colorado",
+        "Corsica",
+        "Corvair",
+        "Corvette",
+        "Cruze",
+        "El Camino",
+        "Epica",
+        "GMC",
+        "HH",
+        "HHR",
+        "Impala",
+        "Kalos",
+        "Kimara",
+        "Lacetti",
+        "Lumina",
+        "Matiz",
+        "Monte Carlo",
+        "Nova",
+        "Orlando",
+        "Panel Van",
+        "S10",
+        "SSR",
+        "Silverado",
+        "Spark",
+        "Suburban",
+        "Tacuma",
+        "Tahoe",
+        "Thriftmaster",
+        "Trailblazer",
+        "Trax",
+        "Uplander",
+        "Vega",
+        "Venture",
+        "Volt"
+      ]
+    }
+  },
+  {
+    "CHRYSLER": {
+      "modelsList": [
+        "180",
+        "2-litre",
+        "300C",
+        "300G",
+        "300M",
+        "Alpine",
+        "Avenger",
+        "Concorde",
+        "Crossfire",
+        "Delta",
+        "Fifth Avenue",
+        "Grand Voyager",
+        "Horizon",
+        "Hunter",
+        "Imperial",
+        "Le Baron",
+        "Matra",
+        "Neon",
+        "New Yorker",
+        "PT Cruiser",
+        "Pacifica",
+        "Prowler",
+        "Sebring",
+        "Sebring Cabrio",
+        "Stratus",
+        "Sunbeam",
+        "Viper",
+        "Viper Targa",
+        "Voyager",
+        "Windsor",
+        "Ypsilon"
+      ]
+    }
+  },
+  {
+    "CITROEN": {
+      "modelsList": [
+        "12/24 Touring",
+        "2 CV",
+        "7C",
+        "AX",
+        "Ami",
+        "Athena",
+        "BX",
+        "Berlingo",
+        "C-Crosser",
+        "C-Zero",
+        "C1",
+        "C2",
+        "C3",
+        "C3 Aircross",
+        "C3 Picasso",
+        "C3 Pluriel",
+        "C4",
+        "C4 Cactus",
+        "C4 Picasso",
+        "C4 SpaceTourer",
+        "C5",
+        "C5 Aircross",
+        "C6",
+        "C8",
+        "CX",
+        "CX20",
+        "CX2400",
+        "CX2500",
+        "CX25D",
+        "DH",
+        "DL",
+        "DS",
+        "DS3",
+        "DS3 Cabrio",
+        "DS4",
+        "DS5",
+        "Dispatch",
+        "Dyane",
+        "GS",
+        "GSA",
+        "Grand C4 Picasso",
+        "Grand C4 SpaceTourer",
+        "Id",
+        "LNA",
+        "Light 15",
+        "Nemo Multispace",
+        "Pallas",
+        "Reflex",
+        "Relay",
+        "SM",
+        "Safari",
+        "Saxo",
+        "SpaceTourer",
+        "Synergie",
+        "Visa",
+        "XM",
+        "Xantia",
+        "Xsara",
+        "Xsara Picasso",
+        "ZX"
+      ]
+    }
+  },
+  {
+    "CORVETTE": {
+      "modelsList": ["C5", "C6", "C7", "Stingray", "Z06", "ZR1"]
+    }
+  },
+  {
+    "CUPRA": {
+      "modelsList": ["Ateca"]
+    }
+  },
+  {
+    "CUSTOM VEHICLE": {
+      "modelsList": ["Replica"]
+    }
+  },
+  {
+    "DACIA": {
+      "modelsList": [
+        "Denem",
+        "Duster",
+        "Logan MCV",
+        "Logan MCV Stepway",
+        "Sandero",
+        "Sandero Stepway"
+      ]
+    }
+  },
+  {
+    "DAEWOO": {
+      "modelsList": [
+        "Espero",
+        "Kalos",
+        "Korando",
+        "Lacetti",
+        "Lanos",
+        "Leganza",
+        "Matiz",
+        "Musso",
+        "Nexia",
+        "Nubira",
+        "Tacuma"
+      ]
+    }
+  },
+  {
+    "DAF": {
+      "modelsList": ["44"]
+    }
+  },
+  {
+    "DAIHATSU": {
+      "modelsList": [
+        "Applause",
+        "Atrai 7",
+        "Charade",
+        "Charmant",
+        "Compagno",
+        "Copen",
+        "Cuore",
+        "Domino",
+        "F20",
+        "F25",
+        "F50",
+        "F55",
+        "Fourtrak",
+        "Grand Move",
+        "Hijet",
+        "Materia",
+        "Midget",
+        "Mira",
+        "Move",
+        "Sirion",
+        "Sportrak",
+        "Terios",
+        "YRV"
+      ]
+    }
+  },
+  {
+    "DAIMLER": {
+      "modelsList": [
+        "Century",
+        "Conquest",
+        "Consort",
+        "DS420",
+        "Double Six",
+        "Empress",
+        "Landaulette",
+        "Limousine",
+        "Majestic",
+        "SP",
+        "Saloon",
+        "Six",
+        "Sovereign",
+        "Super Eight",
+        "V8-250",
+        "Vanden Plas",
+        "XJ Series",
+        "XJ12",
+        "XJ6"
+      ]
+    }
+  },
+  {
+    "DAX": {
+      "modelsList": ["Rush", "Tojeiro"]
+    }
+  },
+  {
+    "DELOREAN": {
+      "modelsList": ["DMC-12", "DMZ"]
+    }
+  },
+  {
+    "DODGE": {
+      "modelsList": [
+        "Avenger",
+        "Caliber",
+        "Caravan",
+        "Challenger",
+        "Charger",
+        "Coronet",
+        "Coronet R/T",
+        "Custom Royale",
+        "Dakota",
+        "Dart",
+        "Durango",
+        "Grand Caravan",
+        "Journey",
+        "Magnum",
+        "Nitro",
+        "Polara",
+        "RAM",
+        "Stealth",
+        "Viper",
+        "Warlock"
+      ]
+    }
+  },
+  {
+    "DS AUTOMOBILES": {
+      "modelsList": [
+        "DS 3",
+        "DS 3 CABRIO",
+        "DS 3 CROSSBACK",
+        "DS 4",
+        "DS 4 CROSSBACK",
+        "DS 5",
+        "DS 7 CROSSBACK"
+      ]
+    }
+  },
+  {
+    "FERRARI": {
+      "modelsList": [
+        "208",
+        "212 Inter",
+        "246",
+        "250",
+        "275",
+        "288",
+        "308",
+        "328",
+        "330",
+        "348",
+        "355 F1",
+        "360",
+        "365",
+        "400",
+        "412",
+        "430",
+        "456",
+        "456M",
+        "458",
+        "488",
+        "488 Pista",
+        "500",
+        "512",
+        "550",
+        "575M",
+        "599",
+        "599 SA Aperta",
+        "612",
+        "812 GTS",
+        "812 Superfast",
+        "California",
+        "Daytona",
+        "Dino",
+        "Enzo",
+        "F12berlinetta",
+        "F12tdf",
+        "F355",
+        "F40",
+        "F430",
+        "F50",
+        "F512",
+        "F8 Spider",
+        "F8 Tributo",
+        "FF",
+        "GTC4Lusso",
+        "LaFerrari",
+        "Le Mans Berlinetta",
+        "Mondial",
+        "Portofino",
+        "Scuderia Spider",
+        "Superamerica",
+        "Testarossa"
+      ]
+    }
+  },
+  {
+    "FIAT": {
+      "modelsList": [
+        "1100",
+        "1200",
+        "124 Spider",
+        "125",
+        "126",
+        "127",
+        "128",
+        "130",
+        "1300",
+        "131 Mirafiori",
+        "132",
+        "133",
+        "1400",
+        "1500",
+        "1800",
+        "1900",
+        "2100",
+        "2300",
+        "500",
+        "500C",
+        "500L",
+        "500X",
+        "600",
+        "850",
+        "Abarth",
+        "Argenta",
+        "Barchetta",
+        "Brava",
+        "Bravo",
+        "Cinquecento",
+        "Coupe",
+        "Croma",
+        "Dino",
+        "Doblo",
+        "Ducato",
+        "Fiorino",
+        "Fullback",
+        "Grande Punto",
+        "Idea",
+        "Marea",
+        "Marea Weekend",
+        "Multipla",
+        "Panda",
+        "Pininfarina",
+        "Punto",
+        "Punto Evo",
+        "Qubo",
+        "Regata",
+        "Scudo",
+        "Sedici",
+        "Seicento",
+        "Spider",
+        "Stilo",
+        "Strada",
+        "Talento",
+        "Tempra",
+        "Tipo",
+        "Ulysse",
+        "Uno",
+        "X1/9"
+      ]
+    }
+  },
+  {
+    "FORD": {
+      "modelsList": [
+        "Anglia",
+        "B-Max",
+        "C-Max",
+        "Capri",
+        "Cardinal",
+        "Consul",
+        "Corsair",
+        "Cortina",
+        "Cougar",
+        "Crown Victoria",
+        "Custom Cab",
+        "Dorchester",
+        "EcoSport",
+        "Econoline",
+        "Edge",
+        "Escape",
+        "Escort",
+        "Everest",
+        "Excursion",
+        "Expedition",
+        "Explorer",
+        "F1",
+        "F150",
+        "F155",
+        "F250",
+        "F350",
+        "F650",
+        "Fairlane",
+        "Fairmont",
+        "Falcon",
+        "Fiesta",
+        "Flex",
+        "Focus",
+        "Focus C-Max",
+        "Focus CC",
+        "Force 6",
+        "Freda",
+        "Fusion",
+        "GT",
+        "Galaxy",
+        "Granada",
+        "Grand C-Max",
+        "Grand Tourneo Connect",
+        "Ka",
+        "Ka+",
+        "Kuga",
+        "Laser",
+        "Lincoln",
+        "Maverick",
+        "Model A",
+        "Model T",
+        "Model Y",
+        "Monarch",
+        "Mondeo",
+        "Mustang",
+        "Orion",
+        "P100",
+        "Pilot V8",
+        "Popular",
+        "Prefect",
+        "Probe",
+        "Puma",
+        "RS200",
+        "Ranchero",
+        "Ranger",
+        "S-Max",
+        "Scorpio",
+        "Sherrod",
+        "Sierra",
+        "Squire",
+        "Streetka",
+        "Taunus",
+        "Taurus",
+        "Th!nk",
+        "Thames",
+        "Thunderbird",
+        "Tourneo Connect",
+        "Tourneo Courier",
+        "Tourneo Custom",
+        "Transit",
+        "Transit Connect",
+        "Transit Courier",
+        "Transit Custom",
+        "Windstar",
+        "Zephyr",
+        "Zodiac"
+      ]
+    }
+  },
+  {
+    "GBS": {
+      "modelsList": ["Zero"]
+    }
+  },
+  {
+    "GMC": {
+      "modelsList": [
+        "Cyclone",
+        "Envoy",
+        "Gladiator",
+        "Pickup",
+        "Safari",
+        "Savana",
+        "Sierra",
+        "Syclone",
+        "Yukon"
+      ]
+    }
+  },
+  {
+    "GREAT WALL": {
+      "modelsList": [
+        "Asteed",
+        "Coolbear",
+        "Cowry",
+        "Deer",
+        "Florid",
+        "Haval",
+        "Hover",
+        "Peri",
+        "Steed",
+        "Tracker",
+        "Voleex",
+        "Wingle"
+      ]
+    }
+  },
+  {
+    "HOLDEN": {
+      "modelsList": ["Commodore", "HSV", "Maloo", "SS", "Suburban"]
+    }
+  },
+  {
+    "HONDA": {
+      "modelsList": [
+        "Accord",
+        "Aerodeck",
+        "Airwave",
+        "Ballade",
+        "Beat",
+        "CR-V",
+        "CR-X",
+        "CR-Z",
+        "Civic",
+        "Concerto",
+        "Crossroad",
+        "Element",
+        "Elysion",
+        "FR-V",
+        "Fit",
+        "Freed",
+        "HR-V",
+        "Horizon",
+        "Insight",
+        "Integra",
+        "Jazz",
+        "Legend",
+        "Life",
+        "Logo",
+        "Mobilo",
+        "NSX",
+        "Odyssey",
+        "Passport",
+        "Prelude",
+        "Quintet",
+        "RX3",
+        "S-MX",
+        "S2000",
+        "S800",
+        "Shuttle",
+        "Stepwagon",
+        "Stream",
+        "e"
+      ]
+    }
+  },
+  {
+    "HUMBER": {
+      "modelsList": ["Hawk", "Imperial", "Sceptre", "Super"]
+    }
+  },
+  {
+    "HUMMER": {
+      "modelsList": ["H1", "H2", "H3"]
+    }
+  },
+  {
+    "HYUNDAI": {
+      "modelsList": [
+        "Accent",
+        "Amica",
+        "Atoz",
+        "Coupe",
+        "Elantra",
+        "Galloper",
+        "Genesis",
+        "Getz",
+        "Grandeur",
+        "Ioniq",
+        "Kona",
+        "Lantra",
+        "Matrix",
+        "Nexo",
+        "Pony",
+        "Pony X2",
+        "S-Coupe",
+        "Santa Fe",
+        "Sonata",
+        "Stellar",
+        "Terracan",
+        "Trajet",
+        "Tucson",
+        "Veloster",
+        "XG25",
+        "XG30",
+        "i10",
+        "i20",
+        "i30",
+        "i40",
+        "i800",
+        "iLoad",
+        "ix20",
+        "ix35"
+      ]
+    }
+  },
+  {
+    "INFINITI": {
+      "modelsList": [
+        "EX",
+        "FX",
+        "G",
+        "M",
+        "Q30",
+        "Q50",
+        "Q60",
+        "Q70",
+        "QX30",
+        "QX50",
+        "QX70",
+        "QX80",
+        "Vettel"
+      ]
+    }
+  },
+  {
+    "ISUZU": {
+      "modelsList": [
+        "117",
+        "Bighorn",
+        "D-Max",
+        "Gemini",
+        "LS",
+        "MU",
+        "Piazza",
+        "Rodeo",
+        "TF",
+        "Trooper",
+        "Vehicross"
+      ]
+    }
+  },
+  {
+    "": {
+      "modelsList": []
+    }
+  }
+]

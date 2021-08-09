@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "advertisement_categories",
+  "info": {
+    "name": "AdvertisementCategory"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "CategoryName": {
+      "type": "string"
+    }
+  }
+}

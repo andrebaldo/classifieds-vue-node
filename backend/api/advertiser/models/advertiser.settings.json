@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "advertisers",
+  "info": {
+    "name": "Advertiser"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "DisplayName": {
+      "type": "string"
+    },
+    "PhoneNumber": {
+      "type": "string"
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "advertisers"
+    },
+    "advertisements": {
+      "via": "advertiser",
+      "collection": "advertisement"
+    },
+    "IsProfessionalTrader": {
+      "type": "boolean"
+    },
+    "media_files": {
+      "collection": "media-file"
+    }
+  }
+}

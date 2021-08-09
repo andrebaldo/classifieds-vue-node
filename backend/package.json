@@ -1,0 +1,52 @@
+{
+  "name": "auto-manx.1.0.0",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Auto Manx",
+  "scripts": {
+    "dev": "strapi develop ",
+    "start": "strapi build & strapi start",
+    "build": "strapi build",
+    "strapi": "strapi start",
+    "debug": "node --inspect=127.0.0.1:9229 ./node_modules/strapi/bin/strapi.js develop",
+    "deploy": "git add . & git commit -m \"deploy\" & git push heroku master",
+    "logs": "heroku logs -a automanxbe -t"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.6.1",
+    "apollo-fetch": "^0.7.0",
+    "cheerio": "^1.0.0-rc.3",
+    "chromedriver": "^81.0.0",
+    "cloudinary": "^1.21.0",
+    "elasticsearch": "^16.7.1",
+    "geoip-lite": "^1.4.1",
+    "moment": "^2.25.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "sharp": "^0.25.2",
+    "strapi": "3.0.0-beta.19.3",
+    "strapi-admin": "3.0.0-beta.19.3",
+    "strapi-connector-mongoose": "3.0.0-beta.19.3",
+    "strapi-plugin-content-manager": "3.0.0-beta.19.3",
+    "strapi-plugin-content-type-builder": "3.0.0-beta.19.3",
+    "strapi-plugin-documentation": "3.0.0-beta.19.3",
+    "strapi-plugin-email": "3.0.0-beta.19.3",
+    "strapi-plugin-graphql": "3.0.0-beta.19.3",
+    "strapi-plugin-upload": "3.0.0-beta.19.3",
+    "strapi-plugin-users-permissions": "3.0.0-beta.19.3",
+    "strapi-provider-email-sendgrid": "^3.0.0-beta.20.1",
+    "strapi-utils": "3.0.0-beta.19.3"
+  },
+  "author": {
+    "name": "Andre Baldo"
+  },
+  "strapi": {
+    "uuid": "d0ba29be-b91b-4a33-8652-2723b4448f4f"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

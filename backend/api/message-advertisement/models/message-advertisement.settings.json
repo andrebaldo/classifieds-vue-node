@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "message_advertisements",
+  "info": {
+    "name": "MessageAdvertisement"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Message": {
+      "type": "richtext"
+    },
+    "advertisement": {
+      "via": "message_advertisements",
+      "model": "advertisement"
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "message_advertisements"
+    },
+    "SenderEmail": {
+      "type": "string"
+    },
+    "AdvertiserEmail": {
+      "type": "string"
+    }
+  }
+}

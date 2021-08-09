@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/carmodels",
+      "handler": "carmodel.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/carmodels/count",
+      "handler": "carmodel.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/carmodels/:id",
+      "handler": "carmodel.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/carmodels",
+      "handler": "carmodel.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/carmodels/:id",
+      "handler": "carmodel.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/carmodels/:id",
+      "handler": "carmodel.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/carmakes",
+      "handler": "carmake.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/carmakes/findMakeAndModel",
+      "handler": "carmake.findMakeAndModel",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/carmakes/import",
+      "handler": "carmake.importMakersAndModels",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/carmakes/count",
+      "handler": "carmake.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/carmakes/:id",
+      "handler": "carmake.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/carmakes",
+      "handler": "carmake.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/carmakes/:id",
+      "handler": "carmake.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/carmakes/:id",
+      "handler": "carmake.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

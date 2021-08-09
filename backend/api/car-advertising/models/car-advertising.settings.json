@@ -1,0 +1,64 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "car_advertisings",
+  "info": {
+    "name": "CarAdvertising"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Registration": {
+      "type": "string"
+    },
+    "ModelVariant": {
+      "type": "string"
+    },
+    "Category": {
+      "type": "string"
+    },
+    "Colour": {
+      "type": "string"
+    },
+    "EngineCC": {
+      "type": "string"
+    },
+    "LicenceStatus": {
+      "type": "string"
+    },
+    "DateOfFirstRegistration": {
+      "type": "date"
+    },
+    "DateFirstRegistrationIOM": {
+      "type": "date"
+    },
+    "advertising": {
+      "via": "car_advertising",
+      "model": "advertisement"
+    },
+    "Fuel": {
+      "type": "enumeration",
+      "enum": [
+        "PETROL",
+        "DIESEL",
+        "ELETRIC",
+        "OTHER"
+      ]
+    },
+    "carmodel": {
+      "model": "carmodel"
+    },
+    "carmake": {
+      "model": "carmake"
+    },
+    "createdByUser": {
+      "plugin": "users-permissions",
+      "model": "user"
+    },
+    "LicenceExpiresOn": {
+      "type": "date"
+    }
+  }
+}

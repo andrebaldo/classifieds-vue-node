@@ -1,0 +1,6 @@
+{
+  "myCustomConfiguration": "This configuration is accessible through strapi.config.environments.development.myCustomConfiguration",
+  "CLOUDINARY_CLOUD": "pedire",
+  "CLOUDINARY_API_KEY": "887916331836144",
+  "CLOUDINARY_API_SECRET": "h9b0SZGOK-CyJD8MKpa3XMUE-As"
+}

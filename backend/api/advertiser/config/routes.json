@@ -1,0 +1,60 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/advertisers",
+      "handler": "advertiser.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/advertisers/count",
+      "handler": "advertiser.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/advertisers/:id",
+      "handler": "advertiser.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/advertisers/loadUserProfile/:userId",
+      "handler": "advertiser.loadUserProfile",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/advertisers",
+      "handler": "advertiser.saveUserProfile",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/advertisers/:id",
+      "handler": "advertiser.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/advertisers/:id",
+      "handler": "advertiser.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

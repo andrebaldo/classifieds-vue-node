@@ -1,0 +1,75 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "advertisements",
+  "info": {
+    "name": "Advertisement"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "IsActive": {
+      "type": "boolean"
+    },
+    "Price": {
+      "type": "decimal"
+    },
+    "advertiser": {
+      "model": "advertiser",
+      "via": "advertisements"
+    },
+    "car_advertising": {
+      "model": "car-advertising",
+      "via": "advertising"
+    },
+    "car_advertisement": {
+      "model": "car-advertisement",
+      "via": "advertisement"
+    },
+    "media_files": {
+      "collection": "media-file"
+    },
+    "Status": {
+      "type": "enumeration",
+      "enum": [
+        "Published",
+        "WaitingPublication",
+        "Deleted",
+        "DeletedForever"
+      ]
+    },
+    "SourceUrl": {
+      "type": "string"
+    },
+    "SourceCreatedAt": {
+      "type": "datetime"
+    },
+    "ClassificationType": {
+      "type": "enumeration",
+      "enum": [
+        "Car",
+        "Unclassified",
+        "House",
+        "Apartment",
+        "Tools",
+        "Household",
+        "Furniture"
+      ]
+    },
+    "message_advertisements": {
+      "collection": "message-advertisement",
+      "via": "advertisement"
+    },
+    "advertisement_category": {
+      "model": "advertisement-category"
+    }
+  }
+}

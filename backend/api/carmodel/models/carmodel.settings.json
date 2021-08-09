@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "carmodels",
+  "info": {
+    "name": "Carmodel"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "ModelId": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "carmake": {
+      "model": "carmake",
+      "via": "carmodels"
+    }
+  }
+}

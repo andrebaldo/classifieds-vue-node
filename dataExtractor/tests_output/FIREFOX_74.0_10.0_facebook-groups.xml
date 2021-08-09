@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="2">
+
+  <testsuite name="facebook-groups"
+    errors="1" failures="0" hostname="" id="" package="facebook-groups" skipped="0"
+    tests="2" time="184.2" timestamp="">
+  
+    <testcase name="New groups layout August 2020" classname="facebook-groups" time="166.7" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Old group layout" classname="facebook-groups" time="17.54" assertions="1">
+
+    
+      <error message="udpateIndexes is not defined" type="error">ReferenceError: udpateIndexes is not defined
+    at Object.Old group layout (C:\src\iom-open-market\dataExtractor\tests\end-2-end\facebook-groups.js:473:9)
+    at Context.call (C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\testsuite\context.js:379:35)
+    at TestCase.run (C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\testsuite\testcase.js:49:31)
+    at Runnable.__runFn (C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\testsuite\index.js:374:80)
+    at Runnable.run (C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\testsuite\runnable.js:123:21)
+    at TestSuite.createRunnable (C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\testsuite\index.js:441:33)
+    at TestSuite.handleRunnable (C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\testsuite\index.js:446:18)
+    at C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\testsuite\index.js:374:21
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async DefaultRunner.runTestSuite (C:\src\iom-open-market\dataExtractor\node_modules\nightwatch\lib\runner\test-runners\default.js:68:7)</error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+      [0;31m  ReferenceError: udpateIndexes is not defined[0m
+[0;90m       at Object.Old group layout (C:\src\iom-open-market\dataExtractor\tests\end-2-end\facebook-groups.js:473:9)
+       at processTicksAndRejections (internal/process/task_queues.js:93:5)[0m
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

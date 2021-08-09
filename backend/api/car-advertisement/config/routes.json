@@ -1,0 +1,60 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/car-advertisements",
+      "handler": "car-advertisement.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/car-advertisements/count",
+      "handler": "car-advertisement.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/car-advertisements/:id",
+      "handler": "car-advertisement.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/car-advertisements",
+      "handler": "car-advertisement.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/car-advertisements/save",
+      "handler": "car-advertisement.upinsert",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/car-advertisements/:id",
+      "handler": "car-advertisement.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/car-advertisements/:id",
+      "handler": "car-advertisement.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
